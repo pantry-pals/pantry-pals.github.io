@@ -4,7 +4,8 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [Team Contract](#teamcontract)
-/*
+<!--
+comment out
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -13,8 +14,7 @@
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
-
-*/
+-->
 
 ## Overview
 
