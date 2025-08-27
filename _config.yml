@@ -1,0 +1,8 @@
+title: 414manoateam1
+description: Team 1 project at UH Manoa
+theme: jekyll-theme-cayman
+
+# Optional GitHub Pages config
+github:
+  is_project_page: true
+  repository_url: https://github.com/414manoateam1/team-1
