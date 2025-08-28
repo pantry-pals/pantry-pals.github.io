@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 414manoateam1
+title: Pantry Pals
 ---
 
-# 414manoateam1
+# Pantry Pals
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -14,7 +14,7 @@ title: 414manoateam1
 6. [Screenshots](#screenshots)
 
 <!--
-comment out
+comment out add in later as we progress through project
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
