@@ -11,7 +11,8 @@ title: Pantry Pals
 3. [Team Contract](#team-contract)
 4. [User Guide](#user-guide)
 5. [Developer Guide](#developer-guide)
-6. [Screenshots](#screenshots)
+6. [Milestone](#milestone)
+7. [Screenshots](#screenshots)
 
 <!--
 comment out add in later as we progress through project
@@ -92,5 +93,7 @@ pdfjsLib.getDocument(url).promise.then(pdf => {
 ## Developer Guide
 
 ---
+## Milestone
+* [Milestone 1](https://github.com/orgs/pantry-pals/projects/2)
 
 ## Screenshots
