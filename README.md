@@ -1,1 +1,1 @@
-# 414manoateam1.github.io
+# pantry-pals.github.io
