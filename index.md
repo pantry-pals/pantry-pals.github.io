@@ -29,7 +29,6 @@ comment out add in later as we progress through project
 ---
 
 ## Overview
-![Pantry App Screenshot](assets/pantry_pals_mockup.png)
 
 ### Problem
 _What's the point of a pantry app?_
@@ -112,3 +111,5 @@ pdfjsLib.getDocument(url).promise.then(pdf => {
 * [Milestone 1](https://github.com/orgs/pantry-pals/projects/2)
 
 ## Milestone 1: Screenshots of Progress
+![Pantry App Screenshot](assets/pantry_pals_mockup.png)
+![Pantry App Inventory_Screenshot](assets/inventory.png)
