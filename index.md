@@ -109,6 +109,7 @@ pdfjsLib.getDocument(url).promise.then(pdf => {
 ---
 ## Milestone
 * [Milestone 1](https://github.com/orgs/pantry-pals/projects/2)
+* [Milestone 2](https://github.com/orgs/pantry-pals/projects/7)
 
 ## Milestone 1: Screenshots of Progress
 ![Pantry App Screenshot](assets/pantry_pals_mockup.png)
