@@ -119,13 +119,13 @@ pdfjsLib.getDocument(url).promise.then(pdf => {
 
 ---
 ## Development Team
-[Justin Smith](https://github.com/justnsmith)
-[James Ivan Cartagena](https://github.com/jicaartagena)
-[Jason Nguyen](https://github.com/jknguyen2003)
-[Haley Teramoto](https://github.com/haleyteramoto)
-[Pelita Felicitas](https://github.com/pelitaf)
-[Jarell Ballesteros](https://github.com/jarellb)
-[Cohen Ruport](https://github.com/cohenruport)
-[Amy Shin](https://github.com/tlsdbfla00)
-[Jared Seto](https://github.com/jseto808)
+[Justin Smith](https://github.com/justnsmith)  
+[James Ivan Cartagena](https://github.com/jicaartagena)  
+[Jason Nguyen](https://github.com/jknguyen2003)  
+[Haley Teramoto](https://github.com/haleyteramoto)  
+[Pelita Felicitas](https://github.com/pelitaf)  
+[Jarell Ballesteros](https://github.com/jarellb)  
+[Cohen Ruport](https://github.com/cohenruport)  
+[Amy Shin](https://github.com/tlsdbfla00)  
+[Jared Seto](https://github.com/jseto808)  
 
