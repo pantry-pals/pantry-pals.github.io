@@ -114,3 +114,4 @@ pdfjsLib.getDocument(url).promise.then(pdf => {
 ## Milestone 1: Screenshots of Progress
 ![Pantry App Screenshot](assets/pantry_pals_mockup.png)
 ![Pantry App Inventory_Screenshot](assets/inventory.png)
+![Pantry App ShoppingList_Screenshot](assets/shopping_list.png)
