@@ -31,14 +31,27 @@ comment out add in later as we progress through project
 ## Overview
 
 ### Problem
-
+_What's the point of a pantry app?_
+-People often forget what they have in their pantry, fridge, or spice rack
+-Expired food leads to waste and wasted money 
+-Grocery shopping is inefficient without knowing what's already at home
 ### Approach
+-Create a digital inventory system for pantry, fridge, freezer, and spices
+-Allow users to easily add, remove, and update items
+-Automatically generate shopping lists when items are low or missing
+-Simple and clean interface so it's quick to use every day
 
 ### Use Case Ideas
+-Before going to the store, check what items are low or expired
+-While cooking, search the app to see if you have a specific ingredient
+-Share the pantry list with family or roomates so everyone is synced
+-Use expiration reminders to finish food before it spoils
 
 ### Beyond the Basics
-
----
+-Barcode scanner for quick item entry
+-Recipe suggestions based on available ingredients 
+-Reports that show spending trends and reduce food waste
+-Possible integration with smart home assistance like Alexa or Google Assistant
 
 ## Deployment
 
