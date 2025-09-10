@@ -101,7 +101,20 @@ pdfjsLib.getDocument(url).promise.then(pdf => {
 ---
 
 ## User Guide
-[Link to User Guide](#)
+An intro to using pantry pals  
+
+### Sign in page
+Sign up for pantry pals and verify your email to sign in
+![Pantry App Sign In_Screenshot](assets/SignIn.png)
+
+### Add to your pantry
+Keep track of your spices and food by adding them to your pantry  
+![Pantry App Add Stuff_Screenshot](assets/addStuff.png)
+
+### View your pantry
+Pantry pals allows you to easily keep track of what ingredients you have in your household, where they are, and how much of them you have left
+![Pantry App Inventory_Screenshot](assets/inventory.png)
+
 
 ---
 
