@@ -36,6 +36,7 @@ _What's the point of a pantry app?_
 - People often forget what they have in their pantry, fridge, or spice rack
 - Expired food leads to waste and wasted money 
 - Grocery shopping is inefficient without knowing what's already at home
+
 ### Approach
 - Create a digital inventory system for pantry, fridge, freezer, and spices
 - Allow users to easily add, remove, and update items
