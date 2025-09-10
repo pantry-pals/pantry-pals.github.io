@@ -126,7 +126,7 @@ Pantry pals allows you to easily keep track of what ingredients you have in your
 * [Milestone 2](https://github.com/orgs/pantry-pals/projects/7)
 
 ## Milestone 1: Screenshots of Progress
-![Pantry App Screenshot](assets/pantry_pals_mockup.png)
+![Pantry App Screenshot](assets/pantry_pals_homepage.png)
 ![Pantry App Inventory_Screenshot](assets/inventory.png)
 ![Pantry App ShoppingList_Screenshot](assets/shopping_list.png)
 
