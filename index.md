@@ -13,6 +13,7 @@ title: Pantry Pals
 5. [Developer Guide](#developer-guide)
 6. [Milestone](#milestone)
 7. [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
+8. [Development Team](#development-team)
 
 <!--
 comment out add in later as we progress through project
@@ -115,3 +116,16 @@ pdfjsLib.getDocument(url).promise.then(pdf => {
 ![Pantry App Screenshot](assets/pantry_pals_mockup.png)
 ![Pantry App Inventory_Screenshot](assets/inventory.png)
 ![Pantry App ShoppingList_Screenshot](assets/shopping_list.png)
+
+---
+## Development Team
+[Justin Smith](https://github.com/justnsmith)  
+[James Ivan Cartagena](https://github.com/jicaartagena)  
+[Jason Nguyen](https://github.com/jknguyen2003)  
+[Haley Teramoto](https://github.com/haleyteramoto)  
+[Pelita Felicitas](https://github.com/pelitaf)  
+[Jarell Ballesteros](https://github.com/jarellb)  
+[Cohen Ruport](https://github.com/cohenruport)  
+[Amy Shin](https://github.com/tlsdbfla00)  
+[Jared Seto](https://github.com/jseto808)  
+
