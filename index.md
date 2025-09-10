@@ -29,6 +29,7 @@ comment out add in later as we progress through project
 ---
 
 ## Overview
+![Pantry App Screenshot](assets/pantry_pals_mockup.png)
 
 ### Problem
 _What's the point of a pantry app?_
