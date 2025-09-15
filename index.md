@@ -119,6 +119,27 @@ Pantry pals allows you to easily keep track of what ingredients you have in your
 ---
 
 ## Developer Guide
+This section provides information of interest to developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+First, install [Node.js](https://nodejs.org/en/download/)
+
+Second, visit the [Pantry Pals application github page](https://github.com/pantry-pals/pantry-pal), and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the pantry-pal directory and install libraries with:
+```
+$ npm install
+```
+
+Fourth, run the system with:
+```
+$ npm run dev
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Application Design
+Pantry Pal is based upon the ICS Software Engineering [Next.js Application Template](https://github.com/ics-software-engineering/nextjs-application-template).
 
 ---
 ## Milestone
