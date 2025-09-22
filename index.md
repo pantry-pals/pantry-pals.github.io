@@ -14,8 +14,9 @@ title: Pantry Pals
 6. [Milestone](#milestone)
 7. [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
 8. [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
-9. [Continuous Integration](#continuous-integration)
-10. [Development Team](#development-team)
+9. [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
+10. [Continuous Integration](#continuous-integration)
+11. [Development Team](#development-team)
 
 <!--
 comment out add in later as we progress through project
@@ -147,6 +148,7 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ## Milestone
 * [Milestone 1](https://github.com/orgs/pantry-pals/projects/2)
 * [Milestone 2](https://github.com/orgs/pantry-pals/projects/7)
+* [Milestone 3](https://github.com/orgs/pantry-pals/projects/10)
 
 ## Milestone 1: Screenshots of Progress
 ![Pantry App Screenshot](assets/pantry_pals_homepage.png)
@@ -160,6 +162,8 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![Pantry Pals Pantry Page](assets/m2_pantry_page.png)
 ![Pantry Pals About Us Page 1](assets/m2_about_page1.png)
 ![Pantry Pals About Us Page 2](assets/m2_about_page2.png)
+
+## Milestone 2: Screenshots of Progress
 
 ---
 ## Continuous Integration
