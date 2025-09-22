@@ -154,7 +154,8 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 
 ---
 ## Continuous Integration
-![ci-badge](https://github.com/pantry-pals/pantry-pal/workflows/pantry-pals/badge.svg)
+[![ci-badge](https://github.com/pantry-pals/pantry-pal/workflows/pantry-pals/badge.svg)](https://github.com/pantry-pals/pantry-pal/actions/workflows/ci.yml)
+
 
 ---
 ## Development Team
