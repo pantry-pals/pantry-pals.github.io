@@ -164,7 +164,7 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![Pantry Pals Landing Page](assets/m2_landing_page.png)
 ![Pantry Pals Sign In Page](assets/m2_signin_page.png)
 ![Pantry Pals Sign Up Page](assets/m2_signup_page.png)
-![Pantry Pals Pantry Page](assets/m2_pantry_page.png)
+![Pantry Pals Pantry Page](assets/m2_view_pantry.png)
 ![Pantry Pals About Us Page 1](assets/m2_about_us_page1.png)
 ![Pantry Pals About Us Page 2](assets/m2_about_us_page2.png)
 
