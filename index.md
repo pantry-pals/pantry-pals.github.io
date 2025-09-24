@@ -59,11 +59,11 @@ _What's the point of a pantry app?_
 - Possible integration with smart home assistance like Alexa or Google Assistant
 
 ## Deployment
-Pantry Pal is deployed through Vercel, taking advantage of its seamless integration with GitHub and strong support for Next.js applications. The repository’s main branch is connected directly to Vercel, which means that any changes merged into main automatically trigger a new production build. This continuous deployment pipeline ensures that the application is always up to date with the latest code.
+Pantry Pals is deployed through Vercel, taking advantage of its seamless integration with GitHub and strong support for Next.js applications. The repository’s main branch is connected directly to Vercel, which means that any changes merged into main automatically trigger a new production build. This continuous deployment pipeline ensures that the application is always up to date with the latest code.
 
 During each deployment, Vercel installs the project dependencies, generates the Prisma client, applies any pending database migrations, and then builds the Next.js application for production. Once the build process completes, Vercel publishes the new version of the site, replacing the old one with zero downtime. This automated flow allows the team to focus on development while keeping deployment consistent and reliable.
 
-The live site can be accessed here: https://pantry-pal-gamma.vercel.app
+The live site can be accessed here: [Pantry Pals](https://pantry-pal-gamma.vercel.app)
 
 ---
 
