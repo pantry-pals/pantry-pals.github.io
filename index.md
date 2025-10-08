@@ -170,9 +170,15 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![Pantry Pals Recipe Page](assets/M2_recipePage.png)
 
 ## Milestone 3: Screenshots of Progress
-![Pantry Pals Mockup Page](assets/Dashboard_Mock_Up.png)
-![Pantry Pals Mockup Page](assets/m3_view_pantry_additem.png)
-![Pantry Pals Mockup Page](assets/m3_shopping_list.png)
+![M3 Landing Page](assets/m3_landing.png)
+![M3 Pantry Page Table](assets/m3_pantry1.png)
+![M3 Pantry Page Cards](assets/m3_pantry2.png)
+![M3 Add Item Modal](assets/m3_add.png)
+![M3 Edit Item Modal](assets/m3_edit.png)
+![M3 Shopping List Page](assets/m3_shopping1.png)
+![M3 Shopping List Modal](assets/m3_shopping2.png)
+![M3 Recipes Page](assets/m3_recipes.png)
+
 ---
 ## Continuous Integration
 [![ci-badge](https://github.com/pantry-pals/pantry-pal/workflows/pantry-pals/badge.svg)](https://github.com/pantry-pals/pantry-pal/actions/workflows/ci.yml)
