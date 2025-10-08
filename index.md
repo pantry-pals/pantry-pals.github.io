@@ -180,6 +180,7 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![M3 Shopping List Page](assets/m3_shopping1.png)
 ![M3 Shopping List Modal](assets/m3_shopping2.png)
 ![M3 Recipes Page](assets/m3_recipes.png)
+![Mockup idea](assets/Dashboard_Mock_Up.png)
 
 ## Milestone 4: Screenshots of Progress
 
