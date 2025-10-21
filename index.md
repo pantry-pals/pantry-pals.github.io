@@ -194,7 +194,7 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ## Milestone 4: Screenshots of Progress
 
 
-## Milestone 4: Screenshots of Progress
+## Milestone 5: Screenshots of Progress
 
 ---
 
