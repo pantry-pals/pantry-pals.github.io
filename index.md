@@ -12,7 +12,7 @@ title: Pantry Pals
 4. [Team Contract](#team-contract)
 5. [User Guide](#user-guide)
 6. [Developer Guide](#developer-guide)
-7. [Milestone](#milestone)
+7. [Milestones](#milestones)
 8. [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
 9. [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
 10. [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
@@ -159,7 +159,7 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 
 ---
 
-## Milestone
+## Milestones
 * [Milestone 1](https://github.com/orgs/pantry-pals/projects/2)
 * [Milestone 2](https://github.com/orgs/pantry-pals/projects/7)
 * [Milestone 3](https://github.com/orgs/pantry-pals/projects/10)
