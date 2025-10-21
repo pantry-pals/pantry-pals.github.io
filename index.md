@@ -8,16 +8,17 @@ title: Pantry Pals
 ## Table of Contents
 1. [Overview](#overview)
 2. [Deployment](#deployment)
-3. [Team Contract](#team-contract)
-4. [User Guide](#user-guide)
-5. [Developer Guide](#developer-guide)
-6. [Milestone](#milestone)
-7. [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
-8. [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
-9. [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
-10. [Milestone 4 Progress](#milestone-4-screenshots-of-progress)
-11. [Continuous Integration](#continuous-integration)
-12. [Development Team](#development-team)
+3. [Continuous Integration](#continuous-integration)
+4. [Team Contract](#team-contract)
+5. [User Guide](#user-guide)
+6. [Developer Guide](#developer-guide)
+7. [Milestone](#milestone)
+8. [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
+9. [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
+10. [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
+11. [Milestone 4 Progress](#milestone-4-screenshots-of-progress)
+12. [Milestone 5 Progress](#milestone-5-screenshots-of-progress)
+13. [Development Team](#development-team)
 
 <!--
 comment out add in later as we progress through project
@@ -65,6 +66,12 @@ Pantry Pals is deployed through Vercel, taking advantage of its seamless integra
 During each deployment, Vercel installs the project dependencies, generates the Prisma client, applies any pending database migrations, and then builds the Next.js application for production. Once the build process completes, Vercel publishes the new version of the site, replacing the old one with zero downtime. This automated flow allows the team to focus on development while keeping deployment consistent and reliable.
 
 The live site can be accessed here: [Pantry Pals](https://pantry-pal-gamma.vercel.app)
+
+---
+
+## Continuous Integration
+[![ci-badge](https://github.com/pantry-pals/pantry-pal/workflows/pantry-pals/badge.svg)](https://github.com/pantry-pals/pantry-pal/actions/workflows/ci.yml)
+
 
 ---
 
@@ -151,11 +158,13 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 Pantry Pal is based upon the ICS Software Engineering [Next.js Application Template](https://github.com/ics-software-engineering/nextjs-application-template).
 
 ---
+
 ## Milestone
 * [Milestone 1](https://github.com/orgs/pantry-pals/projects/2)
 * [Milestone 2](https://github.com/orgs/pantry-pals/projects/7)
 * [Milestone 3](https://github.com/orgs/pantry-pals/projects/10)
 * [Milestone 4](https://github.com/orgs/pantry-pals/projects/11/)
+* [Milestone 5](https://github.com/orgs/pantry-pals/projects/12)
 
 ## Milestone 1: Screenshots of Progress
 ![Pantry App Screenshot](assets/pantry_pals_homepage.png)
@@ -184,12 +193,11 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 
 ## Milestone 4: Screenshots of Progress
 
----
-## Continuous Integration
-[![ci-badge](https://github.com/pantry-pals/pantry-pal/workflows/pantry-pals/badge.svg)](https://github.com/pantry-pals/pantry-pal/actions/workflows/ci.yml)
 
+## Milestone 4: Screenshots of Progress
 
 ---
+
 ## Development Team
 [Justin Smith](https://github.com/justnsmith)  
 [James Ivan Cartagena](https://github.com/jicaartagena)  
