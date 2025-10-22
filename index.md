@@ -228,13 +228,13 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ---
 
 ## Development Team
-[Justin Smith](https://github.com/justnsmith)  
-[James Ivan Cartagena](https://github.com/jicaartagena)  
-[Jason Nguyen](https://github.com/jknguyen2003)  
-[Haley Teramoto](https://github.com/haleyteramoto)  
-[Pelita Felicitas](https://github.com/pelitaf)  
-[Jarell Ballesteros](https://github.com/jarellb)  
-[Cohen Ruport](https://github.com/cohenruport)  
-[Amy Shin](https://github.com/tlsdbfla00)  
-[Jared Seto](https://github.com/jseto808)  
+<img src="assets/m4/githubicon.png" width="15" height="15">[Justin Smith](https://github.com/justnsmith)  
+<img src="assets/m4/githubicon.png" width="15" height="15">[James Ivan Cartagena](https://github.com/jicaartagena)  
+<img src="assets/m4/githubicon.png" width="15" height="15">[Jason Nguyen](https://github.com/jknguyen2003)  
+<img src="assets/m4/githubicon.png" width="15" height="15">[Haley Teramoto](https://github.com/haleyteramoto)  
+<img src="assets/m4/githubicon.png" width="15" height="15">[Pelita Felicitas](https://github.com/pelitaf)  
+<img src="assets/m4/githubicon.png" width="15" height="15">[Jarell Ballesteros](https://github.com/jarellb)  
+<img src="assets/m4/githubicon.png" width="15" height="15">[Cohen Ruport](https://github.com/cohenruport)  
+<img src="assets/m4/githubicon.png" width="15" height="15">[Amy Shin](https://github.com/tlsdbfla00)  
+<img src="assets/m4/githubicon.png" width="15" height="15">[Jared Seto](https://github.com/jseto808)  
 
