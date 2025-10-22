@@ -121,16 +121,33 @@ An intro to using pantry pals
 
 ### Sign in page
 Sign up for pantry pals and verify your email to sign in
-![Pantry App Sign In_Screenshot](assets/SignIn.png)
+![Pantry App Sign Up_Screenshot](assets/m4/m4_signup.png)
+![Pantry App Sign In_Screenshot](assets/m4/m4_signin.png)
 
-### Add to your pantry
-Keep track of your spices and food by adding them to your pantry  
-![Pantry App Add Stuff_Screenshot](assets/addStuff.png)
+### Dashboard
+Users have easy access to all pages through Pantry Pal's dashboard
+![Pantry App Dashboard_Screenshot](assets/m4/m4_dashboard.png)
 
 ### View your pantry
 Pantry pals allows you to easily keep track of what ingredients you have in your household, where they are, and how much of them you have left
-![Pantry App Inventory_Screenshot](assets/inventory.png)
+![Pantry App InventoryList_Screenshot](assets/m4/m4_pantry_list.png)
+![Pantry App InventoryCards_Screenshot](assets/m4/m4_pantry_cards.png)
 
+### Add and Edit your pantry
+Keep track of your spices and food by adding them to your pantry  
+![Pantry App Add Item_Screenshot](assets/m4/m4_additem.png)
+![Pantry App Edit Item_Screenshot](assets/m4/m4_edititem.png)
+![Pantry App Delete Item_Screenshot](assets/m4/m4_deleteitem.png)
+
+### Create Shopping Lists
+Easily create and manage your shopping list based on what’s running low in your pantry. Check off items as you shop to keep your inventory up to date
+![Pantry App ShoppingList_Screenshot](assets/m4/m4_shoppinglists.png)
+![Pantry App ViewShoppingList_Screenshot](assets/m4/m4_shoppinglist_view.png)
+
+### Find Recipes
+Discover recipes you can make with the ingredients you already have. Pantry Pals helps you reduce waste and find meal ideas tailored to your pantry
+![Pantry App Recipes1_Screenshot](assets/m4/m4_recipes1.png)
+![Pantry App Recipes2_Screenshot](assets/m4/m4_recipes2.png)
 
 ---
 
@@ -167,32 +184,44 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 * [Milestone 5](https://github.com/orgs/pantry-pals/projects/12)
 
 ## Milestone 1: Screenshots of Progress
-![Pantry App Screenshot](assets/pantry_pals_homepage.png)
-![Pantry App Inventory_Screenshot](assets/inventory.png)
-![Pantry App ShoppingList_Screenshot](assets/m3_shopping_list.png)
+![Pantry App Screenshot](assets/m1/pantry_pals_homepage.png)
+![Pantry App Inventory_Screenshot](assets/m1/inventory.png)
+![Pantry App ShoppingList_Screenshot](assets/m3/m3_shopping_list.png)
 
 ## Milestone 2: Screenshots of Progress
-![Pantry Pals Landing Page](assets/m2_pantry_pals_landing.png)
-![Pantry Pals Sign In Page](assets/m2_signin_page.png)
-![Pantry Pals Sign Up Page](assets/m2_signup_page.png)
-![Pantry Pals Pantry Page](assets/m2_view_pantry_page.png)
-![Pantry Pals About Us Page 1](assets/m2_about_us_page1.png)
-![Pantry Pals About Us Page 2](assets/m2_about_us_page2.png)
-![Pantry Pals Recipe Page](assets/M2_recipePage.png)
+![Pantry Pals Landing Page](assets/m2/m2_pantry_pals_landing.png)
+![Pantry Pals Sign In Page](assets/m2/m2_signin_page.png)
+![Pantry Pals Sign Up Page](assets/m2/m2_signup_page.png)
+![Pantry Pals Pantry Page](assets/m2/m2_view_pantry_page.png)
+![Pantry Pals About Us Page 1](assets/m2/m2_about_us_page1.png)
+![Pantry Pals About Us Page 2](assets/m2/m2_about_us_page2.png)
+![Pantry Pals Recipe Page](assets/m2/M2_recipePage.png)
 
 ## Milestone 3: Screenshots of Progress
-![M3 Landing Page](assets/m3_landing.png)
-![M3 Pantry Page Table](assets/m3_pantry1.png)
-![M3 Pantry Page Cards](assets/m3_pantry2.png)
-![M3 Add Item Modal](assets/m3_add.png)
-![M3 Edit Item Modal](assets/m3_edit.png)
-![M3 Shopping List Page](assets/m3_shopping1.png)
-![M3 Shopping List Modal](assets/m3_shopping2.png)
-![M3 Recipes Page](assets/m3_recipes.png)
-![Mockup idea](assets/Dashboard_Mock_Up.png)
+![M3 Landing Page](assets/m3/m3_landing.png)
+![M3 Pantry Page Table](assets/m3/m3_pantry1.png)
+![M3 Pantry Page Cards](assets/m3/m3_pantry2.png)
+![M3 Add Item Modal](assets/m3/m3_add.png)
+![M3 Edit Item Modal](assets/m3/m3_edit.png)
+![M3 Shopping List Page](assets/m3/m3_shopping1.png)
+![M3 Shopping List Modal](assets/m3/m3_shopping2.png)
+![M3 Recipes Page](assets/m3/m3_recipes.png)
+![Mockup idea](assets/m1/Dashboard_Mock_Up.png)
 
 ## Milestone 4: Screenshots of Progress
-
+![M4 Landing Page](assets/m4/m4_landing.png)
+![M4 Dashboard Page](assets/m4/m4_dashboard.png)
+![M4 Dashboard Mockup](assets/m4/m4_dashboard_mockup.png)
+![M4 Pantry Page Table](assets/m4/m4_pantry_list.png)
+![M4 Pantry Page Cards](assets/m4/m4_pantry_cards.png)
+![M4 Add Item Modal](assets/m4/m4_additem.png)
+![M4 Edit Item Modal](assets/m4/m4_edititem.png)
+![M4 Delete Item Modal](assets/m4/m4_deleteitem.png)
+![M4 Shopping List Page](assets/m4/m4_shoppinglists.png)
+![M4 View Shopping List Modal](assets/m4/m4_shoppinglist_view.png)
+![M4 Delete Shopping List Modal](assets/m4/m4_shoppinglist_delete.png)
+![M4 Recipes Page 1](assets/m4/m4_recipes1.png)
+![M4 Recipes Page 2](assets/m4/m4_recipes2.png)
 
 ## Milestone 5: Screenshots of Progress
 
