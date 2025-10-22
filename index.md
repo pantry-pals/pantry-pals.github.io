@@ -228,13 +228,13 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ---
 
 ## Development Team
-[Justin Smith](https://github.com/justnsmith)  
-[James Ivan Cartagena](https://github.com/jicaartagena)  
-[Jason Nguyen](https://github.com/jknguyen2003)  
-[Haley Teramoto](https://github.com/haleyteramoto)  
-[Pelita Felicitas](https://github.com/pelitaf)  
-[Jarell Ballesteros](https://github.com/jarellb)  
-[Cohen Ruport](https://github.com/cohenruport)  
-[Amy Shin](https://github.com/tlsdbfla00)  
-[Jared Seto](https://github.com/jseto808)  
+<img src="githubicon.png">[Justin Smith](https://github.com/justnsmith)  
+<img src="githubicon.png">[James Ivan Cartagena](https://github.com/jicaartagena)  
+<img src="githubicon.png">[Jason Nguyen](https://github.com/jknguyen2003)  
+<img src="githubicon.png">[Haley Teramoto](https://github.com/haleyteramoto)  
+<img src="githubicon.png">[Pelita Felicitas](https://github.com/pelitaf)  
+<img src="githubicon.png">[Jarell Ballesteros](https://github.com/jarellb)  
+<img src="githubicon.png">[Cohen Ruport](https://github.com/cohenruport)  
+<img src="githubicon.png">[Amy Shin](https://github.com/tlsdbfla00)  
+<img src="githubicon.png">[Jared Seto](https://github.com/jseto808)  
 
