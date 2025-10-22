@@ -12,13 +12,13 @@ title: Pantry Pals
 4. [Team Contract](#team-contract)
 5. [User Guide](#user-guide)
 6. [Developer Guide](#developer-guide)
-7. [Milestones](#milestones)
-8. [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
-9. [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
-10. [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
-11. [Milestone 4 Progress](#milestone-4-screenshots-of-progress)
-12. [Milestone 5 Progress](#milestone-5-screenshots-of-progress)
-13. [Development Team](#development-team)
+7. [Development Team](#development-team)
+8. [Milestones](#milestones)
+    - [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
+    - [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
+    - [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
+    - [Milestone 4 Progress](#milestone-4-screenshots-of-progress)
+    - [Milestone 5 Progress](#milestone-5-screenshots-of-progress)
 
 <!--
 comment out add in later as we progress through project
