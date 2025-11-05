@@ -235,7 +235,7 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![M5 Add Location Modal](assets/m5/m5_addLocationModal.png)
 ![M5 Delete Location Modal](assets/m5/m5_deleteLocationModal.png)
 ![M5 Recipes Page](assets/m5/m5_recipes.png)
-![M5 Recipes I Can Make](assets/m4/m4_recipes_make.png)
+![M5 Recipes I Can Make](assets/m5/m5_recipes_make.png)
 ![M5 Add Recipes Modal](assets/m5/m5_addRecipeModal.png)
 ![M5 Recipe Instructions](assets/m5/m5_recipes_instructions.png)
 
