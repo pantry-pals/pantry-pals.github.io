@@ -19,6 +19,7 @@ title: Pantry Pals
     - [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
     - [Milestone 4 Progress](#milestone-4-screenshots-of-progress)
     - [Milestone 5 Progress](#milestone-5-screenshots-of-progress)
+    - [Milestone 6 Progress](#milestone-6-screenshots-of-progress)
 
 <!--
 comment out add in later as we progress through project
@@ -126,28 +127,29 @@ Sign up for pantry pals and verify your email to sign in
 
 ### Dashboard
 Users have easy access to all pages through Pantry Pal's dashboard
-![Pantry App Dashboard_Screenshot](assets/m4/m4_dashboard.png)
+![Pantry App Dashboard_Screenshot](assets/m5/m5_dashboard.png)
 
 ### View your pantry
 Pantry pals allows you to easily keep track of what ingredients you have in your household, where they are, and how much of them you have left
-![Pantry App InventoryList_Screenshot](assets/m4/m4_pantry_list.png)
-![Pantry App InventoryCards_Screenshot](assets/m4/m4_pantry_cards.png)
+![Pantry App InventoryList_Screenshot](assets/m5/m5_pantry_table.png)
+![Pantry App InventoryCards_Screenshot](assets/m5/m5_pantry_cards.png)
 
 ### Add and Edit your pantry
 Keep track of your spices and food by adding them to your pantry  
-![Pantry App Add Item_Screenshot](assets/m4/m4_additem.png)
-![Pantry App Edit Item_Screenshot](assets/m4/m4_edititem.png)
+![Pantry App Add Item_Screenshot](assets/m5/m5_addProduceModal.png)
+![Pantry App Edit Item_Screenshot](assets/m5/m5_editProduceModal.png)
 ![Pantry App Delete Item_Screenshot](assets/m4/m4_deleteitem.png)
 
 ### Create Shopping Lists
-Easily create and manage your shopping list based on what’s running low in your pantry. Check off items as you shop to keep your inventory up to date
+Easily create and manage your shopping list based on what’s running low in your pantry. Check off items as you shop to keep your inventory up to date.
 ![Pantry App ShoppingList_Screenshot](assets/m4/m4_shoppinglists.png)
 ![Pantry App ViewShoppingList_Screenshot](assets/m4/m4_shoppinglist_view.png)
 
 ### Find Recipes
-Discover recipes you can make with the ingredients you already have. Pantry Pals helps you reduce waste and find meal ideas tailored to your pantry
-![Pantry App Recipes1_Screenshot](assets/m4/m4_recipes1.png)
-![Pantry App Recipes2_Screenshot](assets/m4/m4_recipes2.png)
+Discover recipes you can make with the ingredients you already have. Pantry Pals helps you reduce waste and find meal ideas tailored to your pantry.
+![Pantry App Recipes Screenshot](assets/m5/m5_recipes.png)
+![Pantry App Recipes I Can Make](assets/m5/m5_recipes_make.png)
+![Pantry App Recipes Instructions](assets/m5/m5_recipes_instructions.png)
 
 ---
 
@@ -180,8 +182,9 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 * [Milestone 1](https://github.com/orgs/pantry-pals/projects/2)
 * [Milestone 2](https://github.com/orgs/pantry-pals/projects/7)
 * [Milestone 3](https://github.com/orgs/pantry-pals/projects/10)
-* [Milestone 4](https://github.com/orgs/pantry-pals/projects/11/)
+* [Milestone 4](https://github.com/orgs/pantry-pals/projects/11)
 * [Milestone 5](https://github.com/orgs/pantry-pals/projects/12)
+* [Milestone 6](https://github.com/orgs/pantry-pals/projects/13)
 
 ## Milestone 1: Screenshots of Progress
 ![Pantry App Screenshot](assets/m1/pantry_pals_homepage.png)
@@ -224,6 +227,19 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![M4 Recipes Page 2](assets/m4/m4_recipes2.png)
 
 ## Milestone 5: Screenshots of Progress
+![M5 Dashboard Page](assets/m5/m5_dashboard.png)
+![M5 Pantry Page Table](assets/m5/m5_pantry_table.png)
+![M5 Pantry Page Cards](assets/m5/m5_pantry_cards.png)
+![M5 Add Produce Modal](assets/m5/m5_addProduceModal.png)
+![M5 Edit Produce Modal](assets/m5/m5_editProduceModal.png)
+![M5 Add Location Modal](assets/m5/m5_addLocationModal.png)
+![M5 Delete Location Modal](assets/m5/m5_deleteLocationModal.png)
+![M5 Recipes Page](assets/m5/m5_recipes.png)
+![M5 Recipes I Can Make](assets/m4/m4_recipes_make.png)
+![M5 Add Recipes Modal](assets/m5/m5_addRecipeModal.png)
+![M5 Recipe Instructions](assets/m5/m5_recipes_instructions.png)
+
+## Milestone 6: Screenshots of Progress
 
 ---
 
