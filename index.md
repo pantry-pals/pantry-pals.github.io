@@ -127,28 +127,29 @@ Sign up for pantry pals and verify your email to sign in
 
 ### Dashboard
 Users have easy access to all pages through Pantry Pal's dashboard
-![Pantry App Dashboard_Screenshot](assets/m4/m4_dashboard.png)
+![Pantry App Dashboard_Screenshot](assets/m5/m5_dashboard.png)
 
 ### View your pantry
 Pantry pals allows you to easily keep track of what ingredients you have in your household, where they are, and how much of them you have left
-![Pantry App InventoryList_Screenshot](assets/m4/m4_pantry_list.png)
-![Pantry App InventoryCards_Screenshot](assets/m4/m4_pantry_cards.png)
+![Pantry App InventoryList_Screenshot](assets/m5/m5_pantry_table.png)
+![Pantry App InventoryCards_Screenshot](assets/m5/m5_pantry_cards.png)
 
 ### Add and Edit your pantry
 Keep track of your spices and food by adding them to your pantry  
-![Pantry App Add Item_Screenshot](assets/m4/m4_additem.png)
-![Pantry App Edit Item_Screenshot](assets/m4/m4_edititem.png)
+![Pantry App Add Item_Screenshot](assets/m5/m5_addProduceModal.png)
+![Pantry App Edit Item_Screenshot](assets/m5/m5_editProduceModal.png)
 ![Pantry App Delete Item_Screenshot](assets/m4/m4_deleteitem.png)
 
 ### Create Shopping Lists
-Easily create and manage your shopping list based on what’s running low in your pantry. Check off items as you shop to keep your inventory up to date
+Easily create and manage your shopping list based on what’s running low in your pantry. Check off items as you shop to keep your inventory up to date.
 ![Pantry App ShoppingList_Screenshot](assets/m4/m4_shoppinglists.png)
 ![Pantry App ViewShoppingList_Screenshot](assets/m4/m4_shoppinglist_view.png)
 
 ### Find Recipes
-Discover recipes you can make with the ingredients you already have. Pantry Pals helps you reduce waste and find meal ideas tailored to your pantry
-![Pantry App Recipes1_Screenshot](assets/m4/m4_recipes1.png)
-![Pantry App Recipes2_Screenshot](assets/m4/m4_recipes2.png)
+Discover recipes you can make with the ingredients you already have. Pantry Pals helps you reduce waste and find meal ideas tailored to your pantry.
+![Pantry App Recipes Screenshot](assets/m5/m5_recipes.png)
+![Pantry App Recipes I Can Make](assets/m5/m5_recipes_make.png)
+![Pantry App Recipes Instructions](assets/m5/m5_recipes_instructions.png)
 
 ---
 
@@ -233,6 +234,7 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![M5 Edit Produce Modal](assets/m5/m5_editProduceModal.png)
 ![M5 Add Location Modal](assets/m5/m5_addLocationModal.png)
 ![M5 Delete Location Modal](assets/m5/m5_deleteLocationModal.png)
+![M5 Recipes Page](assets/m5/m5_recipes.png)
 ![M5 Recipes I Can Make](assets/m4/m4_recipes_make.png)
 ![M5 Add Recipes Modal](assets/m5/m5_addRecipeModal.png)
 ![M5 Recipe Instructions](assets/m5/m5_recipes_instructions.png)
