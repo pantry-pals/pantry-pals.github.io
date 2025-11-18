@@ -14,12 +14,13 @@ title: Pantry Pals
 6. [Developer Guide](#developer-guide)
 7. [Development Team](#development-team)
 8. [Milestones](#milestones)
-    - [Milestone 1 Progress](#milestone-1-screenshots-of-progress)
-    - [Milestone 2 Progress](#milestone-2-screenshots-of-progress)
-    - [Milestone 3 Progress](#milestone-3-screenshots-of-progress)
-    - [Milestone 4 Progress](#milestone-4-screenshots-of-progress)
-    - [Milestone 5 Progress](#milestone-5-screenshots-of-progress)
-    - [Milestone 6 Progress](#milestone-6-screenshots-of-progress)
+    - [Milestone 1 Progress](#milestone-1-progress)
+    - [Milestone 2 Progress](#milestone-2-progress)
+    - [Milestone 3 Progress](#milestone-3-progress)
+    - [Milestone 4 Progress](#milestone-4-progress)
+    - [Milestone 5 Progress](#milestone-5-progress)
+    - [Milestone 6 Progress](#milestone-6-progress)
+    - [Milestone 7 Progress](#milestone-7-progress)
 
 <!--
 comment out add in later as we progress through project
@@ -179,19 +180,24 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ---
 
 ## Milestones
-* [Milestone 1](https://github.com/orgs/pantry-pals/projects/2)
-* [Milestone 2](https://github.com/orgs/pantry-pals/projects/7)
-* [Milestone 3](https://github.com/orgs/pantry-pals/projects/10)
-* [Milestone 4](https://github.com/orgs/pantry-pals/projects/11)
-* [Milestone 5](https://github.com/orgs/pantry-pals/projects/12)
-* [Milestone 6](https://github.com/orgs/pantry-pals/projects/13)
+  * [Milestone 1 Progress](#milestone-1-progress)
+  * [Milestone 2 Progress](#milestone-2-progress)
+  * [Milestone 3 Progress](#milestone-3-progress)
+  * [Milestone 4 Progress](#milestone-4-progress)
+  * [Milestone 5 Progress](#milestone-5-progress)
+  * [Milestone 6 Progress](#milestone-6-progress)
+  * [Milestone 7 Progress](#milestone-7-progress)
 
-## Milestone 1: Screenshots of Progress
+### Milestone 1 Progress
+[Milestone 1](https://github.com/orgs/pantry-pals/projects/2)
+
 ![Pantry App Screenshot](assets/m1/pantry_pals_homepage.png)
 ![Pantry App Inventory_Screenshot](assets/m1/inventory.png)
 ![Pantry App ShoppingList_Screenshot](assets/m3/m3_shopping_list.png)
 
-## Milestone 2: Screenshots of Progress
+### Milestone 2 Progress
+[Milestone 2](https://github.com/orgs/pantry-pals/projects/7)
+
 ![Pantry Pals Landing Page](assets/m2/m2_pantry_pals_landing.png)
 ![Pantry Pals Sign In Page](assets/m2/m2_signin_page.png)
 ![Pantry Pals Sign Up Page](assets/m2/m2_signup_page.png)
@@ -200,7 +206,9 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![Pantry Pals About Us Page 2](assets/m2/m2_about_us_page2.png)
 ![Pantry Pals Recipe Page](assets/m2/M2_recipePage.png)
 
-## Milestone 3: Screenshots of Progress
+### Milestone 3 Progress
+[Milestone 3](https://github.com/orgs/pantry-pals/projects/10)
+
 ![M3 Landing Page](assets/m3/m3_landing.png)
 ![M3 Pantry Page Table](assets/m3/m3_pantry1.png)
 ![M3 Pantry Page Cards](assets/m3/m3_pantry2.png)
@@ -211,7 +219,9 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![M3 Recipes Page](assets/m3/m3_recipes.png)
 ![Mockup idea](assets/m1/Dashboard_Mock_Up.png)
 
-## Milestone 4: Screenshots of Progress
+### Milestone 4 Progress
+[Milestone 4](https://github.com/orgs/pantry-pals/projects/11)
+
 ![M4 Landing Page](assets/m4/m4_landing.png)
 ![M4 Dashboard Page](assets/m4/m4_dashboard.png)
 ![M4 Dashboard Mockup](assets/m4/m4_dashboard_mockup.png)
@@ -226,7 +236,9 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![M4 Recipes Page 1](assets/m4/m4_recipes1.png)
 ![M4 Recipes Page 2](assets/m4/m4_recipes2.png)
 
-## Milestone 5: Screenshots of Progress
+### Milestone 5 Progress
+[Milestone 5](https://github.com/orgs/pantry-pals/projects/12)
+
 ![M5 Dashboard Page](assets/m5/m5_dashboard.png)
 ![M5 Pantry Page Table](assets/m5/m5_pantry_table.png)
 ![M5 Pantry Page Cards](assets/m5/m5_pantry_cards.png)
@@ -241,7 +253,15 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![M5 Add To Shopping List from Main View](assets/m5/m5_addtoshoppinglist.png)
 ![M5 Add To Shopping List from List View](assets/m5/m5_addtoshoppinglist2.png)
 
-## Milestone 6: Screenshots of Progress
+### Milestone 6 Progress
+[Milestone 6](https://github.com/orgs/pantry-pals/projects/13)
+
+
+
+### Milestone 7 Progress
+[Milestone 7](https://github.com/orgs/pantry-pals/projects/14)
+
+
 
 ---
 
