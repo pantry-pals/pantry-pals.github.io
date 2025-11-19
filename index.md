@@ -143,6 +143,7 @@ Keep track of your spices and food by adding them to your pantry
 
 ### Create Shopping Lists
 Easily create and manage your shopping list based on what’s running low in your pantry. Check off items as you shop to keep your inventory up to date.
+![Pantry App CreateShoppingList_ScreenShot](assets/m6/m6_create_shoppinglist.png)
 ![Pantry App ShoppingList_Screenshot](assets/m4/m4_shoppinglists.png)
 ![Pantry App ViewShoppingList_Screenshot](assets/m4/m4_shoppinglist_view.png)
 
@@ -266,7 +267,7 @@ Pantry Pal is based upon the ICS Software Engineering [Next.js Application Templ
 ![M6 Recipe Instructions 1](assets/m6/m6_recipe_instructions1.png)
 ![M6 Recipe Instructions 2](assets/m6/m6_recipe_instructions2.png)
 ![M6 View Shopping List](assets/m6/m6_view_shopping_list.png)
-
+![M6 Create New Shopping List](assets/m6/m6_create_shoppinglist.png)
 ### Milestone 7 Progress
 [Milestone 7 Project Board](https://github.com/orgs/pantry-pals/projects/14)
 
